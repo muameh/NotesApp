@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToDo App
 
 This **ToDo App** is a powerful and efficient task management tool designed for Android, built using **Jetpack Compose**, **Kotlin**, and modern Android development practices such as **Dagger-Hilt** for Dependency Injection, **Room Database** for local storage, and **Material Design Components** for an intuitive user experience. The app features CRUD operations (Create, Read, Update, Delete) for tasks, utilizes **ViewModel** and **LiveData** for reactive UI updates, and offers a beautiful **StaggeredGridLayout** for displaying tasks.
@@ -58,6 +59,8 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensu
 1. Clone this repository:
    ```bash
    git clone https://github.com/muameh/NotesApp.git
+   
+=======
 
 ![Home Screen](screenShots/Screenshot_1729489760.png)
 ![Home Screen](screenShots/Screenshot_1729489767.png)
@@ -65,5 +68,6 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensu
 ![Home Screen](screenShots/Screenshot_1729489533.png)
 ![Home Screen](screenShots/Screenshot_1729489586.png)
 ![Home Screen](screenShots/Screenshot_1729489600.png)
+
 
 
